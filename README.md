@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-  <h1 align="center">I'm <a href="https://github.com/dev-elixir">Abhinav<a><img src="./images/wave.gif" width="60px"/></h1>
+  <h1 align="center">I'm <a href="https://github.com/abhisri1997">Abhinav<a><img src="./images/wave.gif" width="60px"/></h1>
 </p>
 <br>
 <h1>About Me! 😎</h1>
@@ -19,7 +19,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/abhisri1997" target="blank"><img align="center" src="https://img.shields.io/badge/Abhinav Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:abhisri1997@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/abhisri1997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/dev-elixir" target="blank"><img align="center" src="https://img.shields.io/badge/Abhinav-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhisri1997" target="blank"><img align="center" src="https://img.shields.io/badge/Abhinav Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:abhisri1997@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/abhisri1997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/abhisri1997" target="blank"><img align="center" src="https://img.shields.io/badge/Abhinav-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
   
 <br>
@@ -48,13 +48,13 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-elixir&repo=elixir-redmi2)](https://github.com/dev-elixir/elixir-redmi2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisri1997&repo=elixir-redmi2)](https://github.com/abhisri1997/elixir-redmi2)
 |
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-elixir&repo=google-service)](https://github.com/dev-elixir/google-service)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisri1997&repo=google-service)](https://github.com/abhisri1997/google-service)
 |
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-elixir&repo=dev-elixir.github.io)](https://dev-elixir.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisri1997&repo=abhisri1997.github.io)](https://abhisri1997.github.io)
 |
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-elixir&repo=TicTac-game)](https://github.com/dev-elixir/TicTac-game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhisri1997&repo=TicTac-game)](https://github.com/abhisri1997/TicTac-game)
 |
 <Br>
 <Br>
@@ -65,12 +65,12 @@
 <br>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=dev-elixir&show_icons=true&theme=merko)](https://github.com/dev-elixir/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-elixir&layout=compact&theme=merko)](https://github.com/dev-elixir)
+[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=abhisri1997&show_icons=true&theme=merko)](https://github.com/abhisri1997/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisri1997&layout=compact&theme=merko)](https://github.com/abhisri1997)
 <br>
 <hr>
 <br>
 <h1>Thank You! 🤵 </h1>
   
-Creator: [@bhi](https://github.com/dev-elixir)
+Creator: [@bhi](https://github.com/abhisri1997)
 Last Edited on: 26/02/2022
