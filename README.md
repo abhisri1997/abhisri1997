@@ -5,11 +5,11 @@
 <br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a Professional Devloper.
-- 🔭: I’m currently working on many small projects.
-- 🌱: I’m currently learning Web Scraping and Node.js. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Java, C#, JavaScript and Python. 📊📈🤖🧠
+- 🏫: Professional Software Devloper.
+- 🔭: Currently working on many small projects.
+- 🌱: Currently learning Web Scraping and Node.js. 🧠💻🤖
+- 🤔: Looking for help with anything I am currently learning! 😅
+- 💬: Ask me about C#, JavaScript and DSA. 📊📈🤖🧠
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Soccer, Cricket and the Guitar! ⚽🎾🎹
 
@@ -73,4 +73,4 @@
 <h1>Thank You! 🤵 </h1>
   
 Creator: [@bhi](https://github.com/abhisri1997)
-Last Edited on: 26/02/2022
+Last Edited on: 26/11/2022
